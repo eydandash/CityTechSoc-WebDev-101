@@ -6,7 +6,7 @@
 * Contents
          <details>
            <summary>Resources</summary>
-           <p>https://codeburst.io/how-the-internet-works-a240448b409e</p>
+           <p>How the Internet works: https://codeburst.io/how-the-internet-works-a240448b409e</p>
            <p>Resource 2</p>
            <p>Resource 3</p>
            <p>Resource 4</p>
