@@ -12,3 +12,15 @@
          <p>Web Dev explained to a time traveller from 10 years ago: https://medium.freecodecamp.org/web-development-explained-to-a-time-traveler-from-ten-years-ago-600fad81170d</p>
          </details>
 --------
+## Session 2 : ##
+* Contents
+<details>
+<summary>Resources</summary>
+<p>Google Fonts: https://fonts.google.com</p>
+<p>Material Icons: https://material.io/tools/icons/</p>
+<p>Pictures from: https://unsplash.com/search/photos/university</p>
+<p>Explanation of margin and padding: https://www.w3schools.com/css/css_boxmodel.asp</p>
+<p>Modern CSS for Dinosaurs: https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525</p>
+
+</details>
+--------
