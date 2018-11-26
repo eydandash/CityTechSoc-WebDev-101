@@ -1,0 +1,33 @@
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 400;
+  color: #00D5FF;
+  margin-bottom: 20px;
+}
+.aboutCity {
+  color: #ffffff;
+  font-size: 60px;
+  font-family: sans-serif;
+  position: absolute;
+  top: 30px;
+  left: 10px;
+}
+table {
+  width: 80%;
+  text-align: center;
+}
+table *{
+  border: 3px navy solid;
+}
+
+th {
+  font-size: 25px;
+  font-style: bold;
+  background-color: #00D5FF;
+  padding: 15px;
+
+}
