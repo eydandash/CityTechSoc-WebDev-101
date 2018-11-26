@@ -17,3 +17,21 @@ body {
 .card {
   height: 100%;
 }
+.navbar {
+  background-color: #008080 !important;
+}
+.nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  color: rgba(0,0,0);
+}
+.jumbotron {
+  background-color: rgba(32,178,170, 0.5) !important;
+}
+#helpEsraa {
+  background-color: white !important;
+  color: black !important;
+  border: 3px solid teal;
+}
+.container {
+  border: 5px solid black !important;
+}
