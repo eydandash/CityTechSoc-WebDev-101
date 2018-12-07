@@ -31,7 +31,7 @@
 <summary>Resources</summary>
 <p>The Ultimate Guide to CSS + Cheat Sheets: https://medium.com/level-up-web/the-ultimate-guide-to-css-103b0f883de3</p>
 <p>CSS Cheat Sheet: https://adam-marsden.co.uk/css-cheat-sheet</p>
-<p>Official Bootstrap4 Documentation: https://unsplash.com/search/photos/univFontersity</p>
+<p>Official Bootstrap4 Documentation: http://getbootstrap.com/docs/4.1/getting-started/introduction/
 <p>Bootstrap 4 Cheat Sheet: https://hackerthemes.com/bootstrap-cheatsheet/</p>
 
 </details>
